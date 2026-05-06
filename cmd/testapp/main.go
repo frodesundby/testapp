@@ -21,7 +21,7 @@ var (
 	connectURL           string
 	deployStartTimestamp int64
 )
-
+// init
 func init() {
 	log.SetFormatter(&log.JSONFormatter{})
 

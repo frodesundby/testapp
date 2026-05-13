@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for testapp-rbzgcq on 2026-05-06T09:21:23Z
+# fly.toml app configuration file generated for testapp-myojia on 2026-05-13T08:39:37Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'testapp-rbzgcq'
+app = 'testapp-myojia'
 primary_region = 'ams'
 
 [build]
